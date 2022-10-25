@@ -1,4 +1,4 @@
 [source]
     [source.git]
-    url = "https://github.com/stneng/colink-protocol-greetings-dev.git"
-    commit = "d9e9acb270bbf11a633d22dc9779667931863139"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-greetings-python-dev.git"
+    commit = "e1e49e1225ba5d7ae8c3f015dcdcb1140da8e7f3"
